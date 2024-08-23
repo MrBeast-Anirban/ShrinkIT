@@ -30,4 +30,3 @@
 - Building the Huffman tree: `O(n log n)`
 - Encoding/Decoding: `O(n)`, where `n` is the length of the input data.
 
-Huffman Coding is widely used in various data compression applications, including file compression formats and data transmission protocols.
